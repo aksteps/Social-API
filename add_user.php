@@ -14,7 +14,6 @@
  * The form aboves asks users to select the category
  * The code below after determing the category 
  *  Adds the user in the database and redirects the User back to Main Page
- *
  */
 include('connect.php');
 if(isset($_POST['Category']))
